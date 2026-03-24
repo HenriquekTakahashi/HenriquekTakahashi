@@ -3,7 +3,7 @@
 🎓 Estudante de Engenharia de Software
 
 ## 🚀 Projetos
-- LiberCar - DB (Sistema de mobilidade com foco em acessibilidade)
+- CRUD_AlugelCarro_Python (Sistema de aluguém de carro usando CRUD) 
 
 ## 🛠️ Tecnologias
 - SQL
