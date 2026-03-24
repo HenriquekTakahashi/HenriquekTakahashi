@@ -11,5 +11,5 @@
 - Python
 
 ## 📫 Contato
-- Email: seuemail@email.com
+- Email: henriquek.takahashi@gmail.com
 - WhatsApp: https://wa.me/5511912831690
