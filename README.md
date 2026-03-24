@@ -1,4 +1,4 @@
-# Henrique Silva
+# Henrique Kazuo Shirai Takahashi
 
 🎓 Estudante de Engenharia de Software
 
