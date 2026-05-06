@@ -5,10 +5,10 @@
 - 🏙️ Mogi das Cruzes - SP
 
 ## 🚀 Projetos
-- CRUD_AlugelCarro_Python (Sistema de aluguél de carro usando CRUD)
-- AppGesgenciadorProdutos (CRUD usando linguagem java e NetBeans com interface gráfica)
+- Aluguel de carro  (Sistema de aluguél de carro usando CRUD)
+- Gerenciador de produtos (CRUD usando linguagem Java e IDE NetBeans com interface gráfica)
 
-## 🛠️ Tecnologias
+## 🛠️ Linguagens
 - SQL
 - Java
 - Python
@@ -19,4 +19,3 @@
 
 ## 📫 Contato
 - Email: henriquek.takahashi@gmail.com
-- WhatsApp: https://wa.me/5511912831690
