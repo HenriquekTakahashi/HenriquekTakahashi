@@ -1,8 +1,8 @@
 # Henrique Kazuo Shirai Takahashi
 
-🎓 Estudante de Engenharia de Software - UMC
-🧑🏻 19 anos
-🏙️ Mogi das Cruzes - SP
+- 🎓 Estudante de Engenharia de Software - UMC
+- 🧑🏻 19 anos
+- 🏙️ Mogi das Cruzes - SP
 
 ## 🚀 Projetos
 - CRUD_AlugelCarro_Python (Sistema de aluguél de carro usando CRUD)
