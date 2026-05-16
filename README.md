@@ -5,8 +5,8 @@
 - 🏙️ Mogi das Cruzes - SP
 
 ## 🚀 Projetos
+- Gerenciador de produtos (usando linguagem Java e IDE NetBeans com interface gráfica conectado a um banco de dados)
 - Aluguel de carro  (Sistema de aluguél de carro usando CRUD)
-- Gerenciador de produtos (CRUD usando linguagem Java e IDE NetBeans com interface gráfica)
 
 ## 🛠️ Linguagens
 - SQL
