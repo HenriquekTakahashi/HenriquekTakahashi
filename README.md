@@ -3,7 +3,7 @@
 - 🎓 Estudante de Engenharia de Software - UMC
 - 🧑🏻 19 anos
 - 🏙️ Mogi das Cruzes - SP
-- [Credly](https://www.credly.com/users/henriquek-takahashi))
+- [Credly](https://www.credly.com/users/henriquek-takahashi)
 
 ## 🚀 Projetos
 - Gerenciador de produtos (usando linguagem Java e IDE NetBeans com interface gráfica conectado a um banco de dados)
