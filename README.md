@@ -22,3 +22,4 @@
 ## 📫 Contato
 - Email: henriquek.takahashi@gmail.com
 - LinkedIn: [Henrique Takahashi](https://www.linkedin.com/in/henrique-takahashi-696673408/)
+- [Credly:](https://www.credly.com/users/henriquek-takahashi)
